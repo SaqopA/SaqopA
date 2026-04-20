@@ -2,13 +2,19 @@
 
 Istanbul merkezli teknoloji cozumleri uretiyoruz. Ikinci el laptop, MacBook ve bilgisayar alim satiminda guvenilir adresiniz.
 
-Hizmetlerimiz:
+## Hizmetlerimiz
+
 Ikinci El Laptop Alim Satim
+
 Teknik Servis
+
 Kurumsal Cozumler
 
-Baglantilar:
+## Baglantilar
+
 Resmi Web Sitemiz: [Inova Bilgisayar](https://inovabilgisayar.com)
+
 WhatsApp Destek: [Bize Yazin](https://wa.me/905074591246)
 
-Teknolojiye deger katiyoruz.
+---
+*Teknolojiye deger katiyoruz.*
