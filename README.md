@@ -1,16 +1,15 @@
-## Hi there 👋
+# Inova Bilgisayar
 
-<!--
-**SaqopA/SaqopA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Istanbul merkezli teknoloji cozumleri uretiyoruz. Ikinci el laptop, MacBook ve bilgisayar alim satiminda guvenilir adresiniz.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hizmetlerimiz
+- Ikinci El Laptop Alim Satim: Laptoplarinizi degerinde, nakit olarak aliyoruz.
+- - Teknik Servis: Notebook, MacBook ve masaustu bilgisayar tamiri.
+  - - Kurumsal Cozumler: Sirketler icin toplu bilgisayar alimi ve donanim destegi.
+   
+    - ## Baglantilar
+    - - Web Sitemiz: [inovabilgisayar.com](https://inovabilgisayar.com)
+      - - WhatsApp Destek: [Bize Yazin](https://wa.me/905074591246)
+       
+        - ---
+        *Teknolojiye deger katiyoruz.*
